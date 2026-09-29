@@ -1,3 +1,4 @@
 1- Mostrar numero de faltas
 2- Mostrar notas semestrais
 3- Acrescentar notas
+4-Mostrar datas de provas e trabalhos
